@@ -1,2 +1,0 @@
-# aaryathebritswebsite
-Created with CodeSandbox
